@@ -20,3 +20,6 @@ This is a simple ASP.NET Core Razor Pages app that allows users to register, log
 
 1. Clone this repo
 2. Install dependencies:
+3. admin logins
+   username: admin
+   password : admin123
